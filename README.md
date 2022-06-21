@@ -10,3 +10,4 @@ Javascript, HTML, CSS...
 
 # How to use
 Just click the button and enjoy the app!
+- http://huseynyusifov.com/projects/color-flipper/
